@@ -1,6 +1,6 @@
 # blog-project
 Blog - nhóm Toàn,Thái,Tiến Anh (TH - Công nghệ phần mềm nâng cao)
-## ✅ Kết quả Sprint 1
+✅ Kết quả Sprint 1
 - [x] Xác định yêu cầu, Use Case tổng quát, ERD (Thái)
 - [x] Tạo giao diện đăng nhập (Tiến Anh)
 - [x] Thiết kế giao diện Dashboard (Toàn)
